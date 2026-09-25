@@ -11,7 +11,7 @@ Full-stack engineer. For 9+ years I've built the React/TypeScript checkout and K
 
 #### How I work
 
-I run my projects through an agent pipeline I built on Claude Code: a ticket becomes a spec grounded in the repo, the change gets a risk check, a preview deploy is verified, and nothing reaches production without green CI and a human merge. It's why I can ship several products next to a full-time job.
+I design the architecture and write the code that matters: data models, auth and tenant isolation, payment flows, and the failure paths that decide whether a product holds up in production. To move faster I built my own delivery tooling on Claude Code. I write the spec, it runs the repetitive work against it, and every change still goes through risk checks I defined, a verified preview deploy and green CI before I review and merge it. That's how I ship several products next to a full-time job.
 
 #### LLMs in production
 
