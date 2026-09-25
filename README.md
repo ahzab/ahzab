@@ -1,18 +1,24 @@
 ### Hi, I'm Abdel 👋
 
-Full-stack software engineer at **HSE** (Home Shopping Europe). The rest of the time I build and ship SaaS products solo, idea to revenue, on **Next.js + Supabase + Stripe**.
+Full-stack engineer. For 9+ years I've built the React/TypeScript checkout and Kotlin/Vert.x services at **HSE** (Home Shopping Europe), where a failed order is lost revenue. The rest of the time I ship my own products, idea to revenue, on **Next.js + Supabase + Stripe**.
 
-#### Shipping now
-- **[MSP Intake](https://msp-intake.vercel.app)** is a secure, branded client-intake portal for small MSPs: collect a new client's credentials, assets, SLAs, and insurance from one link.
+#### What I build
 
-#### AI features, end to end
-I wire LLMs (**OpenAI, Claude, Gemini**) into the products I ship: tool use, structured outputs, caching to keep costs flat. The model executes; I make the product calls.
+- **Barez (بارز)**: an Arabic-first AI CV builder and Gulf job board. LLM tailoring, ATS scoring, RTL throughout. Next.js + Supabase. [Live](https://lume-zeta-blue.vercel.app)
+- **MSP Intake**: a branded client-onboarding portal for small MSPs, collecting credentials, assets and SLAs from one link. [Live](https://msp-intake.vercel.app)
+- **Degen Markets** (contract): second-largest contributor to the Next.js front end of a Solana betting app, plus Lambda/Postgres APIs.
+- **iOS apps in progress**: a local-first car service log with iCloud sync, and a cashier change-making trainer.
 
-#### Also
-9 years on production e-commerce at HSE: a React/TypeScript/Redux checkout and Kotlin/Vert.x services under real traffic.
+#### How I work
 
-#### Stack I reach for
-`Next.js` · `React` · `TypeScript` · `Node.js` · `Supabase` · `Stripe` · `Kotlin / Vert.x` · `AWS` · `Python` · LLMs (OpenAI / Claude / Gemini)
+I run my projects through an agent pipeline I built on Claude Code: a ticket becomes a spec grounded in the repo, the change gets a risk check, a preview deploy is verified, and nothing reaches production without green CI and a human merge. It's why I can ship several products next to a full-time job.
 
-→ Site: **[codefolio.dev](https://www.codefolio.dev)** · X: **[@T3chW1zard](https://x.com/T3chW1zard)**
+#### LLMs in production
 
+Claude, OpenAI and Gemini behind real features: tool use, structured outputs, RAG, and prompt caching to keep costs flat.
+
+#### Stack
+
+`TypeScript` · `React` · `Next.js` · `React Native` · `Node.js` · `Kotlin / Vert.x` · `Python` · `PostgreSQL / Supabase` · `Stripe` · `AWS Lambda` · LLMs
+
+→ **[codefolio.dev](https://www.codefolio.dev)** · X **[@T3chW1zard](https://x.com/T3chW1zard)** · Open to freelance: MVP builds, app rescue, AI features
